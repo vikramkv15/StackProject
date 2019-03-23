@@ -1,0 +1,107 @@
+2019-03-22 15:21:12,072 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-22 15:21:15,470 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-22 15:23:10,595 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-22 15:23:15,676 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-22 15:37:35,013 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-22 15:37:38,496 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-22 15:44:56,604 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-22 15:45:00,209 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-22 15:47:29,794 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-22 15:47:32,071 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-22 15:52:53,404 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-22 15:52:55,356 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-22 15:56:21,580 [main] INFO StackFlow WebSite - Waiting for the user to finish the recaptcha 
+2019-03-22 15:56:22,647 [main] INFO StackFlow WebSite - Email sent successfully....
+2019-03-22 15:56:22,648 [main] INFO StackFlow WebSite - Test Case Passed....
+2019-03-22 15:56:24,517 [main] INFO StackFlow WebSite - Gmail url opened.
+2019-03-22 16:02:07,309 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-22 16:02:14,509 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-22 16:02:20,892 [main] INFO StackFlow WebSite - Waiting for the user to finish the recaptcha 
+2019-03-22 16:05:02,586 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-22 16:05:06,358 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-22 16:05:12,422 [main] INFO StackFlow WebSite - Waiting for the user to finish the recaptcha 
+2019-03-22 16:06:39,075 [main] INFO StackFlow WebSite - Email sent successfully....
+2019-03-22 16:06:39,076 [main] INFO StackFlow WebSite - Test Case Passed....
+2019-03-22 16:06:40,653 [main] INFO StackFlow WebSite - Gmail url opened.
+2019-03-22 16:16:26,709 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-22 16:16:34,877 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-22 16:16:41,865 [main] INFO StackFlow WebSite - Waiting for the user to finish the recaptcha 
+2019-03-22 16:21:26,812 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-22 16:21:31,911 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-22 16:21:38,322 [main] INFO StackFlow WebSite - Waiting for the user to finish the recaptcha 
+2019-03-22 16:24:06,501 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-22 16:24:11,695 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-22 16:24:17,625 [main] INFO StackFlow WebSite - Waiting for the user to finish the recaptcha 
+2019-03-22 16:26:57,191 [main] INFO StackFlow WebSite - Email sent successfully....
+2019-03-22 16:26:57,191 [main] INFO StackFlow WebSite - Test Case Passed....
+2019-03-22 16:26:59,066 [main] INFO StackFlow WebSite - Gmail url opened.
+2019-03-22 16:29:18,333 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-22 16:29:24,395 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-22 16:29:30,748 [main] INFO StackFlow WebSite - Waiting for the user to finish the recaptcha 
+2019-03-22 16:31:31,931 [main] INFO StackFlow WebSite - Email sent successfully....
+2019-03-22 16:31:31,931 [main] INFO StackFlow WebSite - Test Case Passed....
+2019-03-22 16:31:33,378 [main] INFO StackFlow WebSite - Gmail url opened.
+2019-03-22 16:31:40,069 [main] INFO StackFlow WebSite - testitcdemo+1553268554461@gmail.com is the email
+2019-03-22 16:31:40,070 [main] INFO StackFlow WebSite - User Logged in to the Gmail
+2019-03-22 16:38:08,195 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-22 16:38:10,111 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-22 16:38:18,618 [main] INFO StackFlow WebSite - Waiting for the user to finish the recaptcha 
+2019-03-22 16:42:34,124 [main] INFO StackFlow WebSite - Email sent successfully....
+2019-03-22 16:42:34,125 [main] INFO StackFlow WebSite - Test Case Passed....
+2019-03-22 16:42:36,224 [main] INFO StackFlow WebSite - Gmail url opened.
+2019-03-23 14:05:56,624 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-23 14:06:09,131 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-23 14:06:17,626 [main] INFO StackFlow WebSite - Waiting for the user to finish the recaptcha 
+2019-03-23 14:06:31,276 [main] INFO StackFlow WebSite - Email sent successfully....
+2019-03-23 14:06:31,276 [main] INFO StackFlow WebSite - Test Case Passed....
+2019-03-23 14:06:34,375 [main] INFO StackFlow WebSite - Gmail url opened.
+2019-03-23 14:06:41,157 [main] INFO StackFlow WebSite - testitcdemo+1553346344359@gmail.com is the email
+2019-03-23 14:06:41,158 [main] INFO StackFlow WebSite - User Logged in to the Gmail
+2019-03-23 14:06:46,008 [main] INFO StackFlow WebSite - User searched email
+2019-03-23 14:06:49,326 [main] INFO StackFlow WebSite - User clicked on the mail
+2019-03-23 18:57:31,138 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-23 18:57:40,446 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-23 18:57:47,358 [main] INFO StackFlow WebSite - Waiting for the user to finish the recaptcha 
+2019-03-23 19:02:14,705 [main] INFO StackFlow WebSite - Email sent successfully....
+2019-03-23 19:02:14,705 [main] INFO StackFlow WebSite - Test Case Passed....
+2019-03-23 19:02:18,908 [main] INFO StackFlow WebSite - Gmail url opened.
+2019-03-23 20:13:29,412 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-23 20:13:32,981 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-23 20:13:40,184 [main] INFO StackFlow WebSite - Waiting for the user to finish the recaptcha 
+2019-03-23 20:18:43,663 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-23 20:18:51,838 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-23 20:18:58,621 [main] INFO StackFlow WebSite - Waiting for the user to finish the recaptcha 
+2019-03-23 20:22:33,121 [main] INFO StackFlow WebSite - Email sent successfully....
+2019-03-23 20:22:33,121 [main] INFO StackFlow WebSite - Test Case Passed....
+2019-03-23 20:22:37,009 [main] INFO StackFlow WebSite - Gmail url opened.
+2019-03-23 20:24:27,143 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-23 20:24:32,679 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-23 20:30:08,432 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-23 20:30:14,754 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-23 20:33:06,918 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-23 20:33:16,145 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-23 20:34:22,241 [main] INFO StackFlow WebSite - Photo upload is failed. Please check
+2019-03-23 20:34:22,242 [main] INFO StackFlow WebSite - Test Case Failed....
+2019-03-23 20:36:13,223 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-23 20:36:16,678 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-23 20:37:51,862 [main] INFO StackFlow WebSite - Photo upload is failed. Please check
+2019-03-23 20:37:51,862 [main] INFO StackFlow WebSite - Test Case Failed....
+2019-03-23 20:40:28,704 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-23 20:40:35,161 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-23 20:41:26,944 [main] INFO StackFlow WebSite - Photo Uploaded successfully and profile saved....
+2019-03-23 20:41:26,956 [main] INFO StackFlow WebSite - Test Case Passed....
+2019-03-23 21:05:45,396 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-23 21:05:45,953 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-23 21:10:08,530 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-23 21:10:08,689 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-23 21:21:50,107 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-23 21:21:50,273 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-23 22:05:39,890 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-23 22:05:40,055 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-23 22:08:50,711 [main] INFO StackFlow WebSite - Chrome Driver is initiated
+2019-03-23 22:09:00,574 [main] INFO StackFlow WebSite - Signup Url is opened.
+2019-03-23 22:09:04,757 [main] INFO StackFlow WebSite - User Click on the Sign Up button
+2019-03-23 22:09:05,936 [main] INFO StackFlow WebSite - User enter the display name
+2019-03-23 22:09:07,216 [main] INFO StackFlow WebSite - User enter the email Id
+2019-03-23 22:09:08,360 [main] INFO StackFlow WebSite - User entered password
+2019-03-23 22:09:08,362 [main] INFO StackFlow WebSite - Waiting for the user to finish the recaptcha. Once done Please click on sign up button 
